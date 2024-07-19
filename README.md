@@ -1,4 +1,4 @@
-# Assignment 1: Deep Learning (2AMM10)
+# Assignment 1: Deep Learning (2AMM10)
 This repository contains the first assignment for the Deep Learning course (2AMM10) at Eindhoven University of Technology, for the academic year 2023-2024. 
 The assignment primarily focuses on metric learning with one-shot learning, particularly in the context of character recognition.
 
@@ -10,7 +10,7 @@ The key objectives and techniques covered in this assignment include:
 - Rotation Invariance: Techniques to add rotation invariance, enhancing the model's robustness to rotated character inputs.
 - Domain Knowledge Integration: Incorporation of domain knowledge on character sequence probabilities to further improve recognition accuracy.
 
-# Contributors
+# Contributors
 - Luca Mainardi
 - Francesco Brescia
 - Matthew Nana
