@@ -4,7 +4,7 @@ The assignment primarily focuses on metric learning with one-shot learning, part
 
 The key objectives and techniques covered in this assignment include:
 
--- Data loading and preprocessing: Efficient handling and preparation of character image data for model training.
+- Data loading and preprocessing: Efficient handling and preparation of character image data for model training.
 - Metric Learning and One-Shot Learning: Implementation of one-shot learning techniques to recognize characters with minimal training examples.
 - Triplet Networks: Utilization of triplet networks to learn a similarity metric, improving the model's ability to distinguish between different characters.
 - Rotation Invariance: Techniques to add rotation invariance, enhancing the model's robustness to rotated character inputs.
